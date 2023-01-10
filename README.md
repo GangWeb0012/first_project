@@ -1,2 +1,2 @@
 # first_ject
-This is my first java project that allows users to perform stock tacking 
+This is self explanitory java console application for adding and modifying a product list
